@@ -5,8 +5,8 @@ module.exports = async () => {
     const template =
     {
         token: "TOKEN_HERE",
-        prefix: "PREFIX_HERE",
-        owner: ["BOT_OWNER1_ID_HERE", "BOT_OWNER2_ID_HERE"]
+        prefix: "!",
+        owner: ["376384142599782410", "376384142599782410"]
     }
 
     let config;
